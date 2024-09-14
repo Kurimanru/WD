@@ -1,0 +1,62 @@
+html {
+	background-image: url(./images/bg_page.png);
+}
+body {
+	max-width: 1200px;
+	margin: 0 auto;
+	background-image: url(./images/Image1.png);
+	padding: 25px;
+}
+h1 {
+	padding-left: 2rem;
+	background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+	font-family: Arial, sans-serif;
+    margin: 0 auto;
+    background-image: url(/images/Image1.png);
+	background-color: #c7b39b;
+	background-image: url(./images/head-icon.png);
+	
+}
+h2 {
+	padding-left: 2rem;
+	background-image: url(./images/tractor.png);
+	background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+}
+.text {
+	font-size: 50px;
+	color: #000;
+	padding-left: 10px;
+	line-height: 59px;
+}
+.text2 {
+	background-image: radial-gradient(#553c9a, #ee4b2b);
+	font-size: 50px;
+	color: #000;
+	padding-left: 10px;
+	line-height: 59px;
+	
+}
+.text span {
+	display: inline;
+	background-color: rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0 0 rgba(0, 0, 0, 0.5), 10px 0 0 rgba(0, 0, 0, 0.5);
+	padding: 0 10px 0 0;
+	color: #FFFFFF;
+	line-height: 14px;
+	font-size: 45px;
+}
+.footer {
+    background-color: #2e34e5;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    text-align: center; 
+    width: 99%;   
+    font-size: 19px;
+    font-weight: bold;
+    color: #fafaff;  
+ }
